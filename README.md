@@ -1,4 +1,5 @@
-- 👋 Hi, I’m **R Sundar**
+## - 👋 Hi there,
+-  I’m **R Sundar**
 - 👀 I’m interested in Linux kernel
 - 🌱 I’m currently learning related to Linux kernel...
 - 💞️ I’m looking to collaborate on Kernel
